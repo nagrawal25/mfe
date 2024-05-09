@@ -1,0 +1,1 @@
+declare module "todo_list_mfe/TodoList";
